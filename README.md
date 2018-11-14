@@ -20,6 +20,6 @@ Vous trouverez ici des communications réalisées lors du club Bioinformatique d
 
 **Orateur :** Thomas Denecker
 
-**Slides :** https://thomasdenecker.github.io/Club-Bioinfo/docs/git-github.html
+**Slides :** [Git/Github](https://thomasdenecker.github.io/Club-Bioinfo/docs/git-github.html)
 
 **Wiki  :**
