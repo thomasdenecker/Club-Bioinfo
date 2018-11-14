@@ -22,4 +22,4 @@ Vous trouverez ici des communications réalisées lors du club Bioinformatique d
 
 **Slides :** [Git/Github](https://thomasdenecker.github.io/Club-Bioinfo/docs/git-github.html)
 
-**Wiki  :**
+**Wiki  :** [vers le wiki](https://github.com/thomasdenecker/Club-Bioinfo/wiki/Git-et-Github)
