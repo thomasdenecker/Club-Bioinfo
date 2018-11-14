@@ -1,0 +1,19 @@
+.slides .ref {
+font-size: 15px;
+margin-top: -40px;
+color: #999999;
+}
+
+.ref a:visited, .ref a:link {
+color: #999999;
+}
+
+.framed {
+    border: 1px solid #bfbfbf !important;
+}
+
+img {
+    border: 0 !important;
+    box-shadow: none !important;
+    background: none !important;
+}
