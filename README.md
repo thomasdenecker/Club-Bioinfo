@@ -4,9 +4,9 @@
 
 Vous trouverez ici des communications réalisées lors du club Bioinformatique de l’I2BC. Les communications seront principalement en français. Tout le contenu présenté existe en anglais. Nous proposons donc ici des ressources pour les francophones.
 
-***Welcome to Club Bioinfo
+**Welcome to Club Bioinfo**
 
-You will find here some communications made during the I2BC Bioinformatics Club. Communications will be mainly in French. All the content presented also exists in English on the Internet. We therefore propose here resources for Francophones.***
+*You will find here some communications made during the I2BC Bioinformatics Club. Communications will be mainly in French. All the content presented also exists in English on the Internet. We therefore propose here resources for Francophones.*
 
 # Communications orales
 
