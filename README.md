@@ -2,7 +2,7 @@
 
 **Bienvenue au Club Bioinfo**
 
-Vous trouverez ici des communications réalisées lors du club Bioinformatique de l’I2BC. Les communications seront principalement en français. Tout le contenu présenté existe en anglais. Nous proposons donc ici des ressources pour les francophones.
+Vous trouverez ici des communications réalisées lors du club Bioinformatique de l’I2BC par Thomas Denecker. Les communications seront principalement en français. Tout le contenu présenté existe en anglais sur internet. Nous proposons donc ici des ressources pour les francophones.
 
 **Welcome to Club Bioinfo**
 
