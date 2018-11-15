@@ -16,7 +16,7 @@ Vous trouverez ici des communications réalisées lors du club Bioinformatique d
 - Présentation du dépot local Git et du dépot distant Github
 - Mise en pratique par un exemple simple
 
-**Date :** 26/10/2018
+**Date :** 26/11/2018
 
 **Orateur :** Thomas Denecker
 
