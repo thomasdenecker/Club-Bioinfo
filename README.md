@@ -6,14 +6,14 @@ Vous trouverez ici des communications réalisées lors du club Bioinformatique d
 
 **Welcome to Club Bioinfo**
 
-*You will find here some communications made during the I2BC Bioinformatics Club. Communications will be mainly in French. All the content presented also exists in English on the Internet. We therefore propose here resources for Francophones.*
+*You will find here some communications made during the I2BC Bioinformatics Club. Communications will be mainly in French. All the content presented also exists in English on the Internet. Therefore, we propose here resources for Francophones.*
 
 # Communications orales
 
 ## Git et Github
 
 **Description :**
-- Présentation du dépot local Git et du dépot distant Github
+- Présentation du dépot local Git et du dépôt distant Github
 - Mise en pratique par un exemple simple
 
 **Date :** 26/11/2018

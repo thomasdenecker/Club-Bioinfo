@@ -34,8 +34,26 @@
 	<div class="reveal">
 		<div class="slides">
 			<section data-transition="slide">
-				<h1>Git et Github</h1> Thomas Denecker / @DeneckerThomas<br><br> 26/11/2018<br><br> A partir de <a href="https://omics-school.github.io/topo-git-github/#/">slides</a> de Pierre Poulain
-				<div class="row" style="height:100px; margin-top:100px;">
+				<h1>Git et Github</h1>
+				<h3>Thomas Denecker</h3>
+				<div class="row" style="height:100px;margin:0 25%;">
+					<div class="col-3 align-self-center">
+						<a href="https://github.com/thomasdenecker" target="_blank"><img src="assets/img/github.png" height="75px"></img></a>
+					</div>
+					<div class="col-3 align-self-center">
+						<a href="https://twitter.com/DeneckerThomas" target="_blank"><img src="assets/img/twitter.png" height="75px"></img></a>
+					</div>
+					<div class="col-3 align-self-center">
+						<img src="assets/img/mail.jpg" height="75px"></img>
+					</div>
+					<div class="col-3 align-self-center">
+						<img src="assets/img/slack.svg" height="50px">
+						</img>
+					</div>
+				</div>
+				<p>26/11/2018</p>
+				<p> Resources : <a href="https://omics-school.github.io/topo-git-github/#/">Pierre Poulain</a> </p>
+				<div class="row" style="height:100px; margin-top:50px;">
 					<div class="col-4 align-self-center">
 						<img src="assets/img/ED.jpg">
 						</img>
@@ -143,7 +161,7 @@
 			<section data-transition="slide">
 				<h2>Git a-t-il détecté des changements ?</h2>
 				<pre class="bash"><code class="hljs" data-trim contenteditable>
-					$ git status
+					$ git statut
 
 					On branch master
 
@@ -168,7 +186,7 @@
 			<section data-transition="slide">
 				<h2>Git a-t-il détecté des changements ?</h2>
 				<pre class="bash"><code class="hljs" data-trim contenteditable>
-					$ git status
+					$ git statut
 					On branch master
 
 					No commits yet
@@ -186,7 +204,7 @@
 				<h2>Ajouter les changements</h2>
 				<pre class="bash"><code class="hljs" data-trim contenteditable>
 					$ git add test.txt
-					$ git status
+					$ git statut
 					On branch master
 
 					No commits yet
@@ -206,7 +224,7 @@
 					1 file changed, 1 insertion(+)
 					create mode 100644 test.txt
 
-					$ git status
+					$ git statut
 					On branch master
 					nothing to commit, working tree clean
 				</code></pre>
@@ -225,7 +243,7 @@
 			<section data-transition="slide">
 				<h2>Des changements?</h2>
 				<pre class="bash"><code class="hljs" data-trim contenteditable>
-					$ git status
+					$ git statut
 					On branch master
 					Changes not staged for commit:
 						(use "git add file..." to update what will be committed)
@@ -263,7 +281,7 @@
 					1 file changed, 1 insertion(+)
 					create mode 100644 test.txt
 
-					$ git status
+					$ git statut
 					On branch master
 					nothing to commit, working tree clean
 				</code></pre>
@@ -402,7 +420,7 @@
 			<section data-transition="slide">
 				<h2>Vérification</h2> Les changements sont dans la branche master
 				<pre class="bash"><code class="hljs" data-trim contenteditable>
-					$ git status
+					$ git statut
 					On branch master
 					nothing to commit, working tree clean
 
@@ -417,7 +435,7 @@
 
 
 			<section data-transition="slide">
-				<h2>Dépot distant</h2>
+				<h2>dépôt distant</h2>
 				<p> Distribuer le projet sur un espace partagé</p>
 				<img src="assets/img/github.png" height="300px">
 				</img>
@@ -429,14 +447,14 @@
 				<h2>Github</h2>
 				<ol>
 					<li>Création d'un compte</li>
-					<li>Creation d'un nouveau répertoire (Create a new répository)</li>
+					<li>Création d'un nouveau répertoire (Create a new répository)</li>
 				</ol>
 				<br><br> Privé en illimité pour les académiques
 
 			</section>
 
 			<section data-transition="slide">
-				<h2>Association du dépot local avec le dépot distant</h2>
+				<h2>Association du dépôt local avec le dépôt distant</h2>
 				<pre class="bash"><code class="hljs" data-trim contenteditable>
 					$ git remote add origin https://github.com/thomasdenecker/DemoGit.git
 					$ git push -u origin master
@@ -490,7 +508,7 @@
 
 			<section data-transition="slide">
 				<h2>Ajouter un collaborateur</h2>
-				<img src="assets/img/collaborateur.png" class="framed">
+				<img src="assets/img/collaborateur.PNG" class="framed">
 				</img>
 			</section>
 
@@ -516,37 +534,37 @@
 
 			<section data-transition="slide">
 				<h2>Déclaration d'un problème</h2> Déclaration d'une issue
-				<img src="assets/img/issue.png" height="500px" class="framed">
+				<img src="assets/img/issue.PNG" height="500px" class="framed">
 				</img>
 			</section>
 
 			<section data-transition="slide">
 				<h2>Proposition de changements</h2>
-				<img src="assets/img/PR.png" height="450px" class="framed">
+				<img src="assets/img/PR.PNG" height="450px" class="framed">
 				</img>
 			</section>
 
 			<section data-transition="slide">
 				<h2>Création d'un projet</h2>
-				<img src="assets/img/projet1.png" height="500px" class="framed">
+				<img src="assets/img/projet1.PNG" height="500px" class="framed">
 				</img>
 			</section>
 
 			<section data-transition="slide">
 				<h2>Exemple de projet</h2>
-				<img src="assets/img/projet2.png" height="500px" class="framed">
+				<img src="assets/img/projet2.PNG" height="500px" class="framed">
 				</img>
 			</section>
 
 			<section data-transition="slide">
-				<h2>Creation d'un wiki</h2>
-				<img src="assets/img/wiki1.png" height="500px" class="framed">
+				<h2>Création d'un wiki</h2>
+				<img src="assets/img/wiki1.PNG" height="500px" class="framed">
 				</img>
 			</section>
 
 			<section data-transition="slide">
 				<h2>Exemple d'un wiki</h2>
-				<img src="assets/img/wiki2.png" height="500px" class="framed">
+				<img src="assets/img/wiki2.PNG" height="500px" class="framed">
 				</img>
 			</section>
 
@@ -583,7 +601,7 @@
 
 			<section data-transition="slide">
 				<h2>La forge - I2BC</h2>
-				<img src="assets/img/forge.png" height="500px" class="framed">
+				<img src="assets/img/forge.PNG" height="500px" class="framed">
 				</img>
 			</section>
 
